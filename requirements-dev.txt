@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest
+ruff
+httpx
+email-validator
+pydantic-settings
