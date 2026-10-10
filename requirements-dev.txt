@@ -1,7 +1,5 @@
 -r requirements.txt
-pytest
-ruff
 httpx
-email-validator
-pydantic-settings
+pytest
 pytest-asyncio
+ruff
