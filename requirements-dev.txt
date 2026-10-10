@@ -4,3 +4,4 @@ ruff
 httpx
 email-validator
 pydantic-settings
+pytest-asyncio
